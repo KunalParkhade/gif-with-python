@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">GIF Creation and Display with Python and Flask</h1>
-![GIF Image] (<iframe src="https://giphy.com/embed/unxCGmTuBvwo2djRLA" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-unxCGmTuBvwo2djRLA">via GIPHY</a></p>)
 
+![engineering](https://github.com/KunalParkhade/gif-with-python/assets/113717557/75ed7cde-1940-41d0-9260-3feec8c5c857)
 
 This project showcases the magic of creating GIFs with Python and serving them on a dynamic webpage using Flask.
 
